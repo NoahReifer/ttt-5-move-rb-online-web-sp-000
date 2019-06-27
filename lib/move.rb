@@ -11,3 +11,7 @@ end
 def input_to_index(userput)
   "#{userput}".to_i - 1
 end
+
+def 
+
+end
